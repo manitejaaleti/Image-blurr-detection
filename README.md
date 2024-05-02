@@ -1,0 +1,1 @@
+This project aims to detect image blur using the Laplacian variance method. Image blur detection is an essential task in various fields such as photography, computer vision, and image processing. The Laplacian variance approach measures the local variation or detail present in an image, allowing us to identify blurry regions.
